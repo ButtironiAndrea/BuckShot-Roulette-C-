@@ -1,0 +1,41 @@
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe.config
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.pdb
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.AssemblyReference.cache
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Form1.resources
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Properties.Resources.resources
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.GenerateResource.cache
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.CoreCompileInputs.cache
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.exe
+C:\Users\buttironi.21398\source\repos\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.pdb
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe.config
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.pdb
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.AssemblyReference.cache
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Form1.resources
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Properties.Resources.resources
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.GenerateResource.cache
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.CoreCompileInputs.cache
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.exe
+C:\Users\buttironi.21398\Desktop\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.pdb
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.AssemblyReference.cache
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.exe
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.pdb
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe.config
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.pdb
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Form1.resources
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Properties.Resources.resources
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.GenerateResource.cache
+C:\Users\butti\Dropbox\PC\Downloads\ae\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.CoreCompileInputs.cache
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.AssemblyReference.cache
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.exe
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.pdb
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe.config
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.exe
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\bin\Debug\Buckshot Roulette.pdb
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Properties.Resources.resources
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.GenerateResource.cache
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot Roulette.csproj.CoreCompileInputs.cache
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Form1.resources
+C:\Users\buttironi.21398\Downloads\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\Buckshot Roulette\obj\Debug\Buckshot_Roulette.Form2.resources
